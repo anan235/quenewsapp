@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888288181231",
+    "firebase_url": "https://quenews.firebaseio.com",
+    "project_id": "quenews",
+    "storage_bucket": "quenews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888288181231:android:e00e54ebefa1e7f69dd41a",
+        "android_client_info": {
+          "package_name": "com.example.quenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888288181231-0ni3ervq18issa56us83eutg23e574vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd344QUY8OwxpATasLatOqbvEnVf1iG9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888288181231-0ni3ervq18issa56us83eutg23e574vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
